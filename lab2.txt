@@ -1,0 +1,2 @@
+# comp101-lab2
+When Bob clicks the GitHub link, his browser or client resolves github.com through DNS to get the server’s IP. It then opens a connection on port 443 and performs a TLS handshake to secure communication. The browser sends an HTTP GET request for the repository path. GitHub’s server processes the request, retrieves or generates the repository page, and returns an HTTP response back to bob. Bob’s browser receives, decrypts, and renders the content so he can view the repository.so bobs device is the client and git hubs machines are the server. 
